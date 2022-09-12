@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300&display=swap');
+
+/* CSS RESET */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    height: 100%;
+    background-color: rgb(146, 243, 243);
+}

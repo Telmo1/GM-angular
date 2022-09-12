@@ -1,0 +1,12 @@
+.topicos-informacoes {
+    
+}
+
+.informacoes {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    margin: auto 0 ;
+    background-color:  rgb(165, 255, 255);
+}

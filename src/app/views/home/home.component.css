@@ -1,0 +1,46 @@
+.main {
+    width: 2700px;
+}
+
+.barra-pesquisa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.bpesquisa {
+    width: 600px;
+}
+
+.carousel {
+    border-radius: 5px;
+}
+
+.legenda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+    font-family: 'Red Hat Mono', monospace;
+}
+
+.banner-oferta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conteudo-banner02 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

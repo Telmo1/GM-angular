@@ -1,0 +1,42 @@
+.body {
+    height: 100%;
+    background-color: rgb(201, 255, 255);
+}
+
+.container-cabecalho {
+    height: 150px;
+    width: 100vw;
+    padding: 4vw;
+    background-color: rgb(165, 255, 255);
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color: black;
+}
+
+.container-cabecalho a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.logo-nome {
+   display: flex;
+   align-items: center;
+   text-transform: uppercase;
+   font-family: 'Red Hat Mono', monospace;
+   padding-right: 280px;
+}
+
+.menu {
+    font-family: 'Red Hat Mono', monospace;
+    padding: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    padding: 10px;
+}

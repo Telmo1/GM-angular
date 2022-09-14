@@ -15,7 +15,7 @@ export class LoginComponent implements OnInit {
 
   userModel = new User()
 
-  receberDados (): void {
+  receberDados () {
     console.log(this.userModel)
   }
 
